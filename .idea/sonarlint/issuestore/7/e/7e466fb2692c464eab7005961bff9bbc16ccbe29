@@ -1,0 +1,22 @@
+
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÅÄÍ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(„şÑğ
+>squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÅÄÍ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÅÄÍ
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(ãÅÄÍ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ıà²Àşÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ôÊºÅ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÕİáÃøÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ıö¢
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(²øÆÄûÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ıà²Àşÿÿÿÿ

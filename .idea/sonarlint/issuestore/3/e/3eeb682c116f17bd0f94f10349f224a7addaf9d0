@@ -1,0 +1,19 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôğäøÿÿÿÿ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(Ò ÷—üÿÿÿÿ
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Äºï€
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ
+Tsquid:S1854<"8Remove this useless assignment to local variable "flag".(³ÖÉÿÿÿÿÿ
+Esquid:S1125/")Remove the literal "false" boolean value.(±Éüæüÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ôÜ›Ã
+Esquid:S14819")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª·Ê 
+9squid:S2386"Make this member "protected".(×È§ûÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¨ˆ»
